@@ -14,6 +14,7 @@ RUN npm install
 
 # Bundle app source
 COPY . .
+RUN npm install
 RUN chmod +x ./*.sh
 
 EXPOSE 8080
