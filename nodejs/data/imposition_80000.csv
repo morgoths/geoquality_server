@@ -1,0 +1,2295 @@
+id,commune,charge
+1,Aeugst am Albis,8.7
+10,Obfelden,9.9
+100,Stadel,9.4
+1001,Doppleschwand,13.9
+1002,Entlebuch,13.4
+1004,Flühli,13.3
+1005,Hasle (LU),14.1
+1007,Romoos,12.8
+1008,Schüpfheim,13
+1009,Werthenstein,13.8
+101,Steinmaur,9.2
+1010,Escholzmatt-Marbach,13.4
+102,Weiach,8.6
+1021,Aesch (LU),12.8
+1022,Altwis,14.2
+1023,Ballwil,10.9
+1024,Emmen,12.5
+1025,Ermensee,12.9
+1026,Eschenbach (LU),10.7
+1030,Hitzkirch,12.9
+1031,Hochdorf,12.5
+1032,Hohenrain,13.1
+1033,Inwil,11.8
+1037,Rain,12.2
+1039,Römerswil,13.3
+1040,Rothenburg,11.9
+1041,Schongau,12.7
+1051,Adligenswil,12.5
+1052,Buchrain,12.2
+1053,Dierikon,12
+1054,Ebikon,11.9
+1055,Gisikon,11.2
+1056,Greppen,12.3
+1057,Honau,11.4
+1058,Horw,10.8
+1059,Kriens,12.2
+1061,Luzern,11.7
+1062,Malters,12.6
+1063,Meggen,8.8
+1064,Meierskappel,12.7
+1065,Root,12
+1066,Schwarzenberg,13.4
+1067,Udligenswil,12.2
+1068,Vitznau,11.1
+1069,Weggis,10.7
+1081,Beromünster,12.2
+1082,Büron,13.8
+1083,Buttisholz,13.1
+1084,Eich,10.5
+1085,Geuensee,13.4
+1086,Grosswangen,12.7
+1088,Hildisrieden,11.9
+1089,Knutwil,13
+1091,Mauensee,12.5
+1093,Neuenkirch,12.6
+1094,Nottwil,12.5
+1095,Oberkirch,11
+1097,Rickenbach (LU),13.1
+1098,Ruswil,13.1
+1099,Schenkon,9.8
+11,Ottenbach,9.5
+1100,Schlierbach,11.8
+1102,Sempach,12.5
+1103,Sursee,11.7
+1104,Triengen,11.6
+1107,Wolhusen,13.8
+111,Bäretswil,9
+112,Bubikon,9
+1121,Alberswil,12.8
+1122,Altbüron,14
+1123,Altishofen,11.8
+1125,Dagmersellen,12
+1126,Ebersecken,13.4
+1127,Egolzwil,12.3
+1128,Ettiswil,12.8
+1129,Fischbach,14
+113,Dürnten,9.5
+1130,Gettnau,13.9
+1131,Grossdietwil,14
+1132,Hergiswil bei Willisau,13.4
+1135,Luthern,14.1
+1136,Menznau,14.5
+1137,Nebikon,12.1
+1139,Pfaffnau,12.7
+114,Fischenthal,10.3
+1140,Reiden,13.4
+1142,Roggliswil,13.6
+1143,Schötz,13.4
+1145,Ufhusen,14.1
+1146,Wauwil,12.8
+1147,Wikon,12.8
+115,Gossau (ZH),9.7
+1150,Zell (LU),12.8
+1151,Willisau,13.1
+116,Grüningen,9.5
+117,Hinwil,9.6
+118,Rüti (ZH),9.8
+119,Seegräben,9.5
+12,Rifferswil,10.4
+120,Wald (ZH),9.8
+1201,Altdorf (UR),9.9
+1202,Andermatt,11
+1203,Attinghausen,9.9
+1204,Bauen,10.1
+1205,Bürglen (UR),9.8
+1206,Erstfeld,10.7
+1207,Flüelen,10
+1208,Göschenen,10.9
+1209,Gurtnellen,11.3
+121,Wetzikon (ZH),9.7
+1210,Hospental,10.4
+1211,Isenthal,11.4
+1212,Realp,10.2
+1213,Schattdorf,9.7
+1214,Seedorf (UR),9.7
+1215,Seelisberg,10.9
+1216,Silenen,10.5
+1217,Sisikon,11.3
+1218,Spiringen,11.1
+1219,Unterschächen,10.7
+1220,Wassen,11.2
+13,Stallikon,8.7
+1301,Einsiedeln,9.4
+131,Adliswil,9
+1311,Gersau,8.9
+132,Hirzel,10.2
+1321,Feusisberg,5.7
+1322,Freienbach,5.7
+1323,Wollerau,5.4
+133,Horgen,8.3
+1331,Küssnacht (SZ),7.6
+134,Hütten,10.4
+1341,Altendorf,7.1
+1342,Galgenen,8.5
+1343,Innerthal,8.5
+1344,Lachen,7.2
+1345,Reichenburg,9.2
+1346,Schübelbach,9.3
+1347,Tuggen,8.9
+1348,Vorderthal,7.8
+1349,Wangen (SZ),8.9
+135,Kilchberg (ZH),7.7
+136,Langnau am Albis,8.8
+1361,Alpthal,8.4
+1362,Arth,9
+1363,Illgau,9.6
+1364,Ingenbohl,8.8
+1365,Lauerz,8.4
+1366,Morschach,9.6
+1367,Muotathal,8.5
+1368,Oberiberg,8.6
+1369,Riemenstalden,8
+137,Oberrieden,8.2
+1370,Rothenthurm,9.2
+1371,Sattel,8.7
+1372,Schwyz,8.9
+1373,Steinen,9.3
+1374,Steinerberg,8.5
+1375,Unteriberg,8.9
+138,Richterswil,9.3
+139,Rüschlikon,7.7
+14,Wettswil am Albis,8.2
+140,Schönenberg (ZH),9.6
+1401,Alpnach,10.7
+1402,Engelberg,9.8
+1403,Giswil,10.9
+1404,Kerns,10.5
+1405,Lungern,11.2
+1406,Sachseln,10.2
+1407,Sarnen,9.5
+141,Thalwil,8.1
+142,Wädenswil,9.1
+1501,Beckenried,9.2
+1502,Buochs,9.8
+1503,Dallenwil,10.3
+1504,Emmetten,9.8
+1505,Ennetbürgen,8.7
+1506,Ennetmoos,9.9
+1507,Hergiswil (NW),8.1
+1508,Oberdorf (NW),8.8
+1509,Stans,9.9
+151,Erlenbach (ZH),7.8
+1510,Stansstad,8.7
+1511,Wolfenschiessen,11.1
+152,Herrliberg,7.8
+153,Hombrechtikon,9.7
+154,Küsnacht (ZH),7.8
+155,Männedorf,8.6
+156,Meilen,7.8
+157,Oetwil am See,9.5
+158,Stäfa,8.4
+159,Uetikon am See,8.3
+160,Zumikon,8.1
+161,Zollikon,8
+1630,Glarus Nord,11
+1631,Glarus Süd,11.2
+1632,Glarus,11
+1701,Baar,4.4
+1702,Cham,4.8
+1703,Hünenberg,4.9
+1704,Menzingen,5
+1705,Neuheim,4.9
+1706,Oberägeri,4.8
+1707,Risch,4.7
+1708,Steinhausen,4.6
+1709,Unterägeri,4.9
+1710,Walchwil,4.6
+1711,Zug,4.5
+172,Fehraltorf,9.2
+173,Hittnau,9.5
+176,Lindau,9.5
+177,Pfäffikon,9.1
+178,Russikon,9.4
+180,Weisslingen,8.8
+181,Wila,9.9
+182,Wildberg,10.1
+191,Dübendorf,9
+192,Egg,8.7
+193,Fällanden,8.6
+194,Greifensee,8.5
+195,Maur,8.2
+196,Mönchaltorf,9.2
+197,Schwerzenbach,8.9
+198,Uster,9.1
+199,Volketswil,8.7
+2,Affoltern am Albis,9.9
+200,Wangen-Brüttisellen,8.5
+2004,Bussy (FR),13.2
+2005,Châbles,13
+2008,Châtillon (FR),12.6
+2009,Cheiry,14.6
+2010,Cheyres,12.6
+2011,Cugy (FR),14.5
+2015,Estavayer-le-Lac,14
+2016,Fétigny,14.7
+2022,Gletterens,12.3
+2025,Lully (FR),13.7
+2027,Ménières,14.5
+2029,Montagny (FR),14
+2033,Morens (FR),14.1
+2034,Murist,14.8
+2035,Nuvilly,14.4
+2038,Prévondavaux,14.4
+2039,Rueyres-les-Prés,14.1
+2041,Saint-Aubin (FR),13.7
+2043,Sévaz,13.1
+2044,Surpierre,14.6
+2045,Vallon,13.7
+2047,Villeneuve (FR),14.5
+2049,Vuissens,14.1
+2050,Les Montets,13.6
+2051,Delley-Portalban,11.6
+2052,Vernay,14.6
+2053,Belmont-Broye,13.1
+2061,Auboranges,11.7
+2063,Billens-Hennens,15.3
+2066,Chapelle (Glâne),14.3
+2067,Le Châtelard,15.5
+2068,Châtonnaye,14.2
+2072,Ecublens (FR),14.5
+2079,Grangettes,13.8
+2086,Massonnens,15
+2087,Mézières (FR),14.8
+2089,Montet (Glâne),12.9
+2096,Romont (FR),14.4
+2097,Rue,14.1
+2099,Siviriez,13.1
+21,Adlikon,9.7
+2102,Ursy,13.4
+211,Altikon,9.4
+2111,Villaz-Saint-Pierre,13.9
+2113,Vuisternens-devant-Romont,14.5
+2114,Villorsonnens,13.5
+2115,Torny,13.3
+2116,La Folliaz,14.2
+2121,Haut-Intyamon,15.1
+2122,Pont-en-Ogoz,13.3
+2123,Botterens,14.2
+2124,Broc,14.7
+2125,Bulle,13
+2128,Châtel-sur-Montsalvens,13.7
+2129,Corbières,13.4
+213,Brütten,8.4
+2130,Crésuz,13
+2131,Echarlens,13
+2134,Grandvillard,13.8
+2135,Gruyères,14
+2137,Hauteville,13.8
+2138,Jaun,15.7
+214,Dägerlen,9.7
+2140,Marsens,13.3
+2143,Morlon,14.1
+2145,Le Pâquier (FR),14.3
+2147,Pont-la-Ville,14
+2148,Riaz,13.1
+2149,La Roche,14.2
+215,Dättlikon,9.1
+2152,Sâles,13.6
+2153,Sorens,14.1
+2155,Vaulruz,13.8
+216,Dinhard,8.3
+2160,Vuadens,14.2
+2162,Bas-Intyamon,14
+2163,Val-de-Charmey,14.8
+217,Elgg,9.8
+2171,Arconciel,14.1
+2173,Autigny,14.5
+2174,Avry,12.9
+2175,Belfaux,13.8
+2177,Chénens,13.9
+2179,Chésopelloz,13.4
+218,Ellikon an der Thur,9.4
+2183,Corminboeuf,13.3
+2185,Corserey,14.3
+2186,Cottens (FR),14.1
+2189,Ependes (FR),14.3
+219,Elsau,9.7
+2194,Ferpicloz,11.5
+2196,Fribourg,13.7
+2197,Givisiez,12.7
+2198,Granges-Paccot,12.5
+22,Benken (ZH),9.7
+220,Hagenbuch,9.4
+2200,Grolley,14.2
+2206,Marly,13.5
+2208,Matran,12.3
+221,Hettlingen,8.8
+2211,Neyruz (FR),14
+2213,Noréaz,13.8
+2216,Pierrafortscha,13.9
+2217,Ponthaux,14.5
+222,Hofstetten (ZH),10.3
+2220,Le Mouret,13.8
+2221,Prez-vers-Noréaz,14.1
+2225,Senèdes,14.4
+2226,Treyvaux,14.6
+2228,Villars-sur-Glâne,12.3
+223,Neftenbach,9.2
+2230,Villarsel-sur-Marly,14.3
+2233,Hauterive (FR),13.3
+2234,La Brillaz,14.5
+2235,La Sonnaz,14
+2236,Gibloux,14.1
+224,Pfungen,9.2
+2243,Barberêche,14.6
+225,Rickenbach (ZH),9
+2250,Courgevaux,13.4
+2254,Courtepin,14.3
+2257,Cressier (FR),13
+2258,Fräschels,13.3
+2259,Galmiz,13.1
+226,Schlatt (ZH),10
+2260,Gempenach,12.7
+2261,Greng,10.2
+2262,Gurmels,14.1
+2265,Kerzers,14.1
+2266,Kleinbösingen,12.7
+227,Seuzach,8.2
+2271,Meyriez,11.7
+2272,Misery-Courtion,14.5
+2274,Muntelier,12.1
+2275,Murten,12.4
+2276,Ried bei Kerzers,13.1
+2278,Ulmiz,13.7
+2279,Villarepos,14.4
+228,Turbenthal,9.8
+2283,Wallenried,14.6
+2284,Mont-Vully,12.2
+2291,Alterswil,13.8
+2292,Brünisried,15.1
+2293,Düdingen,13.8
+2294,Giffers,14.2
+2295,Bösingen,13.9
+2296,Heitenried,14.3
+2298,Oberschrot,15.3
+2299,Plaffeien,15.3
+23,Berg am Irchel,9.2
+230,Winterthur,10
+2300,Plasselb,15.1
+2301,Rechthalten,14.7
+2302,St. Antoni,14.6
+2303,St. Silvester,15.1
+2304,St. Ursen,14
+2305,Schmitten (FR),13.9
+2306,Tafers,13.8
+2307,Tentlingen,13.5
+2308,Ueberstorf,14.5
+2309,Wünnewil-Flamatt,14.4
+231,Zell (ZH),9.7
+2310,Zumholz,15.4
+2321,Attalens,13.6
+2323,Bossonnens,14.6
+2325,Châtel-Saint-Denis,13.8
+2328,Granges (Veveyse),13.2
+2333,Remaufens,14.3
+2335,Saint-Martin (FR),14.3
+2336,Semsales,14
+2337,Le Flon,14.8
+2338,La Verrerie,14.3
+24,Buch am Irchel,9.2
+2401,Egerkingen,14
+2402,Härkingen,13
+2403,Kestenholz,14.8
+2404,Neuendorf,14.8
+2405,Niederbuchsiten,14.3
+2406,Oberbuchsiten,14.6
+2407,Oensingen,13.7
+2408,Wolfwil,14.8
+241,Aesch (ZH),8.2
+242,Birmensdorf (ZH),9.2
+2421,Aedermannsdorf,15.6
+2422,Balsthal,15.2
+2423,Gänsbrunnen,16.1
+2424,Herbetswil,16
+2425,Holderbank (SO),16.9
+2426,Laupersdorf,15.3
+2427,Matzendorf,15.8
+2428,Mümliswil-Ramiswil,15.6
+2429,Welschenrohr,16
+243,Dietikon,10.1
+244,Geroldswil,8.7
+2445,Biezwil,14.9
+245,Oberengstringen,9.4
+2455,Lüterkofen-Ichertswil,14.3
+2456,Lüterswil-Gächliwil,14.6
+2457,Messen,15.2
+246,Oetwil an der Limmat,8.5
+2461,Schnottwil,15.1
+2463,Unterramsern,14.6
+2464,Lüsslingen-Nennigkofen,14.6
+2465,Buchegg,14.2
+247,Schlieren,9.4
+2471,Bättwil,15.2
+2472,Büren (SO),15.3
+2473,Dornach,13.2
+2474,Gempen,14.8
+2475,Hochwald,14.7
+2476,Hofstetten-Flüh,14.7
+2477,Metzerlen-Mariastein,15.6
+2478,Nuglar-St. Pantaleon,15
+2479,Rodersdorf,14.9
+248,Uitikon,8.1
+2480,Seewen,15.5
+2481,Witterswil,14.6
+249,Unterengstringen,8.9
+2491,Hauenstein-Ifenthal,15.5
+2492,Kienberg,16.3
+2493,Lostorf,14.1
+2495,Niedergösgen,13.8
+2497,Obergösgen,14.9
+2498,Rohr (SO),14.9
+2499,Stüsslingen,14.8
+25,Dachsen,9.3
+250,Urdorf,9.5
+2500,Trimbach,15
+2501,Winznau,15.1
+2502,Wisen (SO),15.4
+2503,Erlinsbach (SO),13.3
+251,Weiningen (ZH),8.8
+2511,Aeschi (SO),14.2
+2513,Biberist,15
+2514,Bolken,15.5
+2516,Deitingen,14.7
+2517,Derendingen,15.6
+2518,Etziken,15.2
+2519,Gerlafingen,15.2
+2520,Halten,14.7
+2523,Horriwil,15
+2524,Hüniken,14
+2525,Kriegstetten,14.9
+2526,Lohn-Ammannsegg,13.4
+2527,Luterbach,15.5
+2528,Obergerlafingen,13.7
+2529,Oekingen,14.9
+2530,Recherswil,15.2
+2532,Subingen,15.4
+2534,Zuchwil,15.1
+2535,Drei Höfe,15
+2541,Balm bei Günsberg,13.9
+2542,Bellach,14.9
+2543,Bettlach,13.2
+2544,Feldbrunnen-St. Niklaus,11
+2545,Flumenthal,15.1
+2546,Grenchen,15
+2547,Günsberg,14.8
+2548,Hubersdorf,14.6
+2549,Kammersrohr,11.1
+2550,Langendorf,14.6
+2551,Lommiswil,15.3
+2553,Oberdorf (SO),15.2
+2554,Riedholz,14.2
+2555,Rüttenen,14.3
+2556,Selzach,14.3
+2571,Boningen,14.4
+2572,Däniken,12.2
+2573,Dulliken,14.7
+2574,Eppenberg-Wöschnau,13.6
+2575,Fulenbach,14.2
+2576,Gretzenbach,14.5
+2578,Gunzgen,14.1
+2579,Hägendorf,13.8
+2580,Kappel (SO),14.8
+2581,Olten,14.1
+2582,Rickenbach (SO),13.1
+2583,Schönenwerd,14.6
+2584,Starrkirch-Wil,14.5
+2585,Walterswil (SO),15.3
+2586,Wangen bei Olten,14.7
+26,Dorf,9.2
+2601,Solothurn,14.7
+261,Zürich,9.5
+2611,Bärschwil,15.4
+2612,Beinwil (SO),15.5
+2613,Breitenbach,14.5
+2614,Büsserach,14.3
+2615,Erschwil,15.8
+2616,Fehren,15.4
+2617,Grindel,15.6
+2618,Himmelried,15.2
+2619,Kleinlützel,15.6
+2620,Meltingen,15.9
+2621,Nunningen,15.1
+2622,Zullwil,15.9
+27,Feuerthalen,9.5
+2701,Basel,14.1
+2702,Bettingen,12.7
+2703,Riehen,13.1
+2761,Aesch (BL),13.1
+2762,Allschwil,13.1
+2763,Arlesheim,12
+2764,Biel-Benken,12.2
+2765,Binningen,12.2
+2766,Birsfelden,13.5
+2767,Bottmingen,11.9
+2768,Ettingen,13.3
+2769,Münchenstein,13.4
+2770,Muttenz,12.9
+2771,Oberwil (BL),12.3
+2772,Pfeffingen,12.2
+2773,Reinach (BL),12.7
+2774,Schönenbuch,12.9
+2775,Therwil,12.6
+2781,Blauen,13.6
+2782,Brislach,13.1
+2783,Burg im Leimental,14
+2784,Dittingen,13.9
+2785,Duggingen,13.3
+2786,Grellingen,13.9
+2787,Laufen,13.3
+2788,Liesberg,13.5
+2789,Nenzlingen,13.6
+2790,Roggenburg,13.7
+2791,Röschenz,13.2
+2792,Wahlen,13.1
+2793,Zwingen,13.3
+28,Flaach,9.3
+2821,Arisdorf,13.2
+2822,Augst,12.8
+2823,Bubendorf,13.6
+2824,Frenkendorf,13.1
+2825,Füllinsdorf,13.3
+2826,Giebenach,13.2
+2827,Hersberg,12.9
+2828,Lausen,13
+2829,Liestal,13.7
+2830,Lupsingen,13.2
+2831,Pratteln,13.2
+2832,Ramlinsburg,13.5
+2833,Seltisberg,12.6
+2834,Ziefen,13.6
+2841,Anwil,13.6
+2842,Böckten,13.2
+2843,Buckten,13.7
+2844,Buus,13.4
+2845,Diepflingen,13.7
+2846,Gelterkinden,12.9
+2847,Häfelfingen,13.4
+2848,Hemmiken,13.9
+2849,Itingen,13.5
+2850,Känerkinden,13.3
+2851,Kilchberg (BL),13.7
+2852,Läufelfingen,13.8
+2853,Maisprach,13.7
+2854,Nusshof,13.1
+2855,Oltingen,13.7
+2856,Ormalingen,13.4
+2857,Rickenbach (BL),13.4
+2858,Rothenfluh,13.6
+2859,Rümlingen,13.6
+2860,Rünenberg,13.7
+2861,Sissach,13.1
+2862,Tecknau,13.3
+2863,Tenniken,13.3
+2864,Thürnen,12.6
+2865,Wenslingen,13.2
+2866,Wintersingen,13.4
+2867,Wittinsburg,13.3
+2868,Zeglingen,13.9
+2869,Zunzgen,12.9
+2881,Arboldswil,13.4
+2882,Bennwil,13.7
+2883,Bretzwil,13.3
+2884,Diegten,13.1
+2885,Eptingen,13.8
+2886,Hölstein,13.6
+2887,Lampenberg,13.5
+2888,Langenbruck,12.9
+2889,Lauwil,13.5
+2890,Liedertswil,12.9
+2891,Niederdorf,13.6
+2892,Oberdorf (BL),13.1
+2893,Reigoldswil,13.7
+2894,Titterten,13.8
+2895,Waldenburg,14.1
+29,Flurlingen,9.5
+2901,Gächlingen,13.3
+2903,Löhningen,12.5
+2904,Neunkirch,12.5
+2914,Büttenhardt,12.7
+2915,Dörflingen,11.1
+2917,Lohn (SH),11.5
+2919,Stetten (SH),10.5
+2920,Thayngen,12.1
+2931,Bargen (SH),12.9
+2932,Beringen,12.2
+2933,Buchberg,11.5
+2936,Merishausen,13.2
+2937,Neuhausen am Rheinfall,12.6
+2938,Rüdlingen,10.9
+2939,Schaffhausen,12.5
+2951,Beggingen,13.7
+2952,Schleitheim,13.3
+2953,Siblingen,12.9
+296,Illnau-Effretikon,9.5
+2961,Buch (SH),12.4
+2962,Hemishofen,12.8
+2963,Ramsen,13.3
+2964,Stein am Rhein,12.3
+297,Bauma,9.6
+2971,Hallau,13.2
+2972,Oberhallau,13.6
+2973,Trasadingen,13.6
+2974,Wilchingen,13.1
+298,Wiesendangen,8.5
+3,Bonstetten,9.2
+30,Andelfingen,9.5
+3001,Herisau,12.2
+3002,Hundwil,13.1
+3003,Schönengrund,12.1
+3004,Schwellbrunn,12.3
+3005,Stein (AR),11.6
+3006,Urnäsch,12.5
+3007,Waldstatt,12.8
+301,Aarberg,14.4
+302,Bargen (BE),14.8
+3021,Bühler,12.6
+3022,Gais,11.7
+3023,Speicher,11.6
+3024,Teufen (AR),10.5
+3025,Trogen,12.4
+303,Grossaffoltern,14.8
+3031,Grub (AR),12.2
+3032,Heiden,11.6
+3033,Lutzenberg,12.1
+3034,Rehetobel,12.5
+3035,Reute (AR),12.5
+3036,Wald (AR),12.4
+3037,Walzenhausen,11.4
+3038,Wolfhalden,12
+304,Kallnach,14.1
+305,Kappelen,14.6
+306,Lyss,14.8
+307,Meikirch,14.5
+309,Radelfingen,14.8
+31,Henggart,9.1
+310,Rapperswil (BE),14.7
+3101,Appenzell,9.1
+3102,Gonten,9.8
+3103,Rüte,9.8
+3104,Schlatt-Haslen,10.3
+3105,Schwende,10.7
+311,Schüpfen,14.7
+3111,Oberegg,11
+312,Seedorf (BE),14.9
+32,Humlikon,9.8
+3201,Häggenschwil,14
+3202,Muolen,14.2
+3203,St. Gallen,14.3
+3204,Wittenbach,14.3
+321,Aarwangen,14.3
+3211,Berg (SG),13.4
+3212,Eggersriet,14.2
+3213,Goldach,12.4
+3214,Mörschwil,10.8
+3215,Rorschach,14.5
+3216,Rorschacherberg,12.4
+3217,Steinach,13
+3218,Tübach,11.2
+3219,Untereggen,13.7
+322,Auswil,14.8
+323,Bannwil,14.7
+3231,Au (SG),11.6
+3232,Balgach,10.9
+3233,Berneck,11.5
+3234,Diepoldsau,11.3
+3235,Rheineck,13.7
+3236,St. Margrethen,13.6
+3237,Thal,12.8
+3238,Widnau,11.7
+324,Bleienbach,14.1
+325,Busswil bei Melchnau,14.4
+3251,Altstätten,14.4
+3252,Eichberg,14
+3253,Marbach (SG),14.1
+3254,Oberriet (SG),13.7
+3255,Rebstein,13.2
+3256,Rüthi (SG),14.1
+326,Gondiswil,15.1
+3271,Buchs (SG),12.6
+3272,Gams,14.5
+3273,Grabs,13.2
+3274,Sennwald,12.8
+3275,Sevelen,13.8
+3276,Wartau,14.9
+329,Langenthal,13.6
+3291,Bad Ragaz,11.7
+3292,Flums,14.6
+3293,Mels,13.7
+3294,Pfäfers,14.7
+3295,Quarten,13.7
+3296,Sargans,14.1
+3297,Vilters-Wangs,14.5
+3298,Walenstadt,13.7
+33,Kleinandelfingen,9.4
+331,Lotzwil,14.6
+3311,Amden,13.3
+3312,Benken (SG),14.4
+3313,Kaltbrunn,12.9
+3315,Schänis,14.3
+3316,Weesen,14.1
+332,Madiswil,14.2
+333,Melchnau,14.8
+3338,Schmerikon,13
+3339,Uznach,14.4
+334,Obersteckholz,15
+3340,Rapperswil-Jona,11.3
+3341,Gommiswald,13.4
+3342,Eschenbach (SG),13.2
+335,Oeschenbach,15.7
+3352,Ebnat-Kappel,14.4
+3359,Wildhaus-Alt St. Johann,14.5
+336,Reisiswil,15.3
+3360,Nesslau,14.3
+337,Roggwil (BE),14.4
+3372,Hemberg,14.5
+3374,Lichtensteig,14.2
+3375,Oberhelfenschwil,14.8
+3378,Neckertal,14.4
+3379,Wattwil,14.2
+338,Rohrbach,14.1
+339,Rohrbachgraben,15.4
+3392,Kirchberg (SG),14.1
+3393,Lütisburg,13.9
+3394,Mosnang,14.4
+3395,Bütschwil-Ganterschwil,13.9
+34,Laufen-Uhwiesen,9.5
+340,Rütschelen,14.3
+3401,Degersheim,15.3
+3402,Flawil,14.6
+3405,Jonschwil,14.4
+3407,Oberuzwil,13.6
+3408,Uzwil,14.2
+341,Schwarzhäusern,14.1
+342,Thunstetten,14.9
+3422,Niederbüren,14.5
+3423,Niederhelfenschwil,13.1
+3424,Oberbüren,12.9
+3426,Zuzwil (SG),11.6
+3427,Wil (SG),13.4
+344,Ursenbach,15
+3441,Andwil (SG),13.9
+3442,Gaiserwald,12.8
+3443,Gossau (SG),13.3
+3444,Waldkirch,13.9
+345,Wynau,14.4
+35,Marthalen,9.5
+3503,Mutten,13
+3506,Obervaz,11
+351,Bern,14.2
+3513,Lenz,11.6
+3514,Schmitten (GR),14.2
+352,Bolligen,14.4
+3521,Bravuogn,13.9
+3522,Filisur,13.9
+353,Bremgarten bei Bern,14.1
+354,Kirchlindach,14.1
+3542,Alvra,12.3
+3543,Surses,12.1
+355,Köniz,14.1
+3551,Brusio,11.3
+356,Muri bei Bern,13.2
+3561,Poschiavo,11.9
+357,Oberbalm,15
+3572,Falera,10.6
+3575,Laax,9.5
+358,Stettlen,14.2
+3581,Sagogn,13
+3582,Schluein,11.5
+359,Vechigen,14.7
+36,Oberstammheim,10
+360,Wohlen bei Bern,14.2
+3603,Vals,12.2
+361,Zollikofen,13.8
+3611,Andiast,13.5
+3616,Vuorz,13.8
+3618,Lumnezia,12.5
+3619,Glion,12.3
+362,Ittigen,13.6
+363,Ostermundigen,14.7
+3633,Fürstenau,12.2
+3637,Rothenbrunnen,12.2
+3638,Scharans,12.7
+3640,Sils im Domleschg,12.7
+3661,Cazis,13.6
+3662,Flerden,13.3
+3663,Masein,13.3
+3668,Thusis,13
+3669,Tschappina,12.2
+3670,Urmein,9.3
+3672,Safiental,12.6
+3673,Domleschg,12.7
+3681,Avers,12.9
+3691,Hinterrhein,10.8
+3693,Nufenen,12.5
+3694,Splügen,11.9
+3695,Sufers,9.9
+37,Ossingen,10.2
+3701,Andeer,11.8
+3703,Casti-Wergenstein,14
+3705,Donat,13.5
+3707,Lohn (GR),14
+3708,Mathon,12.3
+371,Bienne,14.6
+3711,Rongellen,8.4
+3712,Zillis-Reischen,10.6
+3713,Ferrera,10.6
+372,Evilard,14.3
+3721,Bonaduz,11.3
+3722,Ems,11.4
+3723,Rhäzüns,12.8
+3731,Felsberg,11.9
+3732,Flims,11.6
+3733,Tamins,12
+3734,Trin,12.1
+3746,Zernez,11.3
+3752,Samnaun,12.2
+3762,Scuol,12.2
+3764,Valsot,11.3
+3781,Bever,10.8
+3782,Schlarigna,8.8
+3783,Madulain,10.8
+3784,Pontresina,11.2
+3785,La Punt-Chamues-ch,10.4
+3786,Samedan,11.6
+3787,St. Moritz,9.4
+3788,S-chanf,10.2
+3789,Segl,10.5
+3790,Silvaplana,9.8
+3791,Zuoz,10.8
+3792,Bregaglia,11.6
+38,Rheinau,10.1
+3804,Buseno,13.8
+3805,Castaneda,11.8
+3808,Rossa,10.9
+381,Arch,15
+3810,Santa Maria in Calanca,13.3
+382,Büetigen,13.8
+3821,Lostallo,11.5
+3822,Mesocco,11.2
+3823,Soazza,9.8
+383,Büren an der Aare,14.5
+3831,Cama,9.9
+3832,Grono,12.2
+3833,Leggia,13.2
+3834,Roveredo (GR),12.4
+3835,San Vittore,11.4
+3836,Verdabbio,13.8
+3837,Calanca,11
+3847,Val Müstair,13.4
+385,Diessbach bei Büren,15
+3851,Davos,12.2
+386,Dotzigen,14.7
+3861,Fideris,13.2
+3862,Furna,13.8
+3863,Jenaz,12.1
+387,Lengnau (BE),14.2
+3871,Klosters-Serneus,11.5
+388,Leuzigen,14.9
+3881,Conters im Prättigau,10.4
+3882,Küblis,12.6
+389,Meienried,13.3
+3891,Luzein,11.8
+39,Thalheim an der Thur,9.2
+390,Meinisberg,15.4
+3901,Chur,11.4
+391,Oberwil bei Büren,15.6
+3911,Churwalden,11.6
+392,Pieterlen,14.6
+3921,Arosa,11.4
+3926,Maladers,12.9
+393,Rüti bei Büren,15.9
+3932,Tschiertschen-Praden,13.1
+394,Wengi,15.7
+3941,Haldenstein,11.7
+3945,Trimmis,11.6
+3946,Untervaz,11.8
+3947,Zizers,11.4
+3951,Fläsch,11
+3952,Jenins,11.8
+3953,Maienfeld,10.9
+3954,Malans,11
+3955,Landquart,12.2
+3961,Grüsch,11.5
+3962,Schiers,13.2
+3972,Seewis im Prättigau,12.6
+3981,Brigels,12.2
+3982,Mustér,13.1
+3983,Medel (Lucmagn),10.5
+3985,Sumvitg,12.7
+3986,Tujetsch,11.8
+3987,Trun,12.5
+3988,Obersaxen Mundaun,12.2
+4,Hausen am Albis,9.5
+40,Trüllikon,9.4
+4001,Aarau,11.1
+4002,Biberstein,10.9
+4003,Buchs (AG),11.3
+4004,Densbüren,12.4
+4005,Erlinsbach (AG),11.2
+4006,Gränichen,11.8
+4007,Hirschthal,11.5
+4008,Küttigen,11.4
+4009,Muhen,11.7
+401,Aefligen,14
+4010,Oberentfelden,11.9
+4012,Suhr,11.5
+4013,Unterentfelden,11.9
+402,Alchenstorf,15.6
+4021,Baden,11
+4022,Bellikon,10.8
+4023,Bergdietikon,10.6
+4024,Birmenstorf (AG),11.3
+4026,Ennetbaden,11.3
+4027,Fislisbach,11.6
+4028,Freienwil,12
+4029,Gebenstorf,11.5
+403,Bäriswil,14.3
+4030,Killwangen,11.5
+4031,Künten,11.7
+4032,Mägenwil,11.3
+4033,Mellingen,11.7
+4034,Neuenhof,12.1
+4035,Niederrohrdorf,11.1
+4037,Oberrohrdorf,10.5
+4038,Obersiggenthal,11.4
+4039,Remetschwil,11
+404,Burgdorf,14.5
+4040,Spreitenbach,11.3
+4041,Stetten (AG),11.3
+4042,Turgi,12
+4044,Untersiggenthal,11.3
+4045,Wettingen,11.1
+4046,Wohlenschwil,12.4
+4047,Würenlingen,11
+4048,Würenlos,11.6
+4049,Ehrendingen,11.7
+405,Ersigen,14.5
+406,Hasle bei Burgdorf,15.4
+4061,Arni (AG),10.5
+4062,Berikon,10.8
+4063,Bremgarten (AG),11.2
+4064,Büttikon,11.2
+4065,Dottikon,11.2
+4066,Eggenwil,11.3
+4067,Fischbach-Göslikon,11.8
+4068,Hägglingen,11.7
+407,Heimiswil,15.2
+4071,Jonen,11.2
+4072,Niederwil (AG),11.3
+4073,Oberlunkhofen,9.8
+4074,Oberwil-Lieli,8.9
+4075,Rudolfstetten-Friedlisberg,10.9
+4076,Sarmenstorf,11.3
+4077,Tägerig,12.2
+4078,Uezwil,11.8
+4079,Unterlunkhofen,10.2
+408,Hellsau,15.4
+4080,Villmergen,11.5
+4081,Widen,10.6
+4082,Wohlen (AG),11.8
+4083,Zufikon,10.8
+4084,Islisberg,10.8
+409,Hindelbank,14.6
+4091,Auenstein,11.1
+4092,Birr,11.8
+4093,Birrhard,12.1
+4094,Bözen,12.5
+4095,Brugg,11.3
+4096,Effingen,12.5
+4097,Elfingen,12.3
+4099,Habsburg,10.6
+41,Truttikon,10
+410,Höchstetten,15.3
+4100,Hausen (AG),11.2
+4104,Lupfig,11.1
+4105,Mandach,12.4
+4106,Mönthal,11.8
+4107,Mülligen,11.8
+411,Kernenried,13.6
+4110,Remigen,11.3
+4111,Riniken,11.8
+4112,Rüfenach,12.2
+4113,Scherz,12.4
+4114,Schinznach-Bad,11.8
+4117,Thalheim (AG),11.9
+412,Kirchberg (BE),14.1
+4120,Veltheim (AG),11.8
+4121,Villigen,10.5
+4122,Villnachern,12.5
+4123,Windisch,12.2
+4124,Bözberg,11.3
+4125,Schinznach,11.7
+413,Koppigen,15.4
+4131,Beinwil am See,11.4
+4132,Birrwil,10.9
+4133,Burg (AG),12.3
+4134,Dürrenäsch,10.6
+4135,Gontenschwil,11.8
+4136,Holziken,11.5
+4137,Leimbach (AG),11.9
+4138,Leutwil,12.1
+4139,Menziken,12.1
+414,Krauchthal,15
+4140,Oberkulm,12.3
+4141,Reinach (AG),12.1
+4142,Schlossrued,12.4
+4143,Schmiedrued,12
+4144,Schöftland,11.3
+4145,Teufenthal (AG),12.3
+4146,Unterkulm,12.1
+4147,Zetzwil,12
+415,Lyssach,13.4
+416,Mötschwil,15.2
+4161,Eiken,11.8
+4163,Frick,11.4
+4164,Gansingen,12.3
+4165,Gipf-Oberfrick,11.5
+4166,Herznach,12.4
+4167,Hornussen,12.8
+4169,Kaisten,11.8
+4170,Laufenburg,12
+4172,Münchwilen (AG),11.4
+4173,Oberhof,12.6
+4175,Oeschgen,12.2
+4176,Schwaderloch,12.9
+4177,Sisseln,10.1
+4179,Ueken,12.7
+418,Oberburg,15.6
+4181,Wittnau,12.3
+4182,Wölflinswil,12.7
+4183,Zeihen,12.4
+4184,Mettauertal,11.9
+4191,Ammerswil,11.2
+4192,Boniswil,11.8
+4193,Brunegg,11.4
+4194,Dintikon,11
+4195,Egliswil,12
+4196,Fahrwangen,12
+4197,Hallwil,12.1
+4198,Hendschiken,12.4
+4199,Holderbank (AG),11.2
+42,Unterstammheim,10
+420,Rüdtligen-Alchenflüh,13.6
+4200,Hunzenschwil,11.5
+4201,Lenzburg,11.7
+4202,Meisterschwanden,9.7
+4203,Möriken-Wildegg,11.2
+4204,Niederlenz,12.3
+4205,Othmarsingen,11.8
+4206,Rupperswil,11.1
+4207,Schafisheim,11.4
+4208,Seengen,10.1
+4209,Seon,11.7
+421,Rumendingen,12.7
+4210,Staufen,10.8
+422,Rüti bei Lyssach,14.9
+4221,Abtwil,12
+4222,Aristau,11.9
+4223,Auw,11.8
+4224,Beinwil (Freiamt),12.1
+4226,Besenbüren,12.5
+4227,Bettwil,11.9
+4228,Boswil,11.2
+4229,Bünzen,12.3
+423,Willadingen,15.3
+4230,Buttwil,11.5
+4231,Dietwil,12.3
+4232,Geltwil,10.9
+4233,Kallern,11.8
+4234,Merenschwand,11.3
+4235,Mühlau,12.3
+4236,Muri (AG),11.8
+4237,Oberrüti,12.1
+4238,Rottenschwil,11.6
+4239,Sins,11.6
+424,Wynigen,15.2
+4240,Waltenschwil,11.6
+4251,Hellikon,12.6
+4252,Kaiseraugst,10.5
+4253,Magden,11
+4254,Möhlin,12.1
+4255,Mumpf,12.5
+4256,Obermumpf,12.8
+4257,Olsberg,11
+4258,Rheinfelden,11.3
+4259,Schupfart,12.5
+4260,Stein (AG),11.1
+4261,Wallbach,11.4
+4262,Wegenstetten,12.5
+4263,Zeiningen,11.9
+4264,Zuzgen,12.7
+4271,Aarburg,12.5
+4272,Attelwil,11.2
+4273,Bottenwil,12.2
+4274,Brittnau,12.2
+4275,Kirchleerau,12
+4276,Kölliken,12.1
+4277,Moosleerau,12.2
+4279,Murgenthal,12.2
+4280,Oftringen,12.1
+4281,Reitnau,12.1
+4282,Rothrist,11.5
+4283,Safenwil,11.7
+4284,Staffelbach,12.1
+4285,Strengelbach,12.2
+4286,Uerkheim,12.5
+4287,Vordemwald,11.8
+4288,Wiliberg,11.8
+4289,Zofingen,11.3
+43,Volken,9.9
+4301,Baldingen,12
+4302,Böbikon,12.5
+4303,Böttstein,11.6
+4304,Döttingen,12
+4305,Endingen,12.1
+4306,Fisibach,12.3
+4307,Full-Reuenthal,12.6
+4308,Kaiserstuhl,12.4
+4309,Klingnau,11.4
+431,Corgémont,15
+4310,Koblenz,12.5
+4311,Leibstadt,11.1
+4312,Lengnau (AG),11.8
+4313,Leuggern,12.2
+4314,Mellikon,12.3
+4315,Rekingen (AG),12.8
+4316,Rietheim,12.6
+4317,Rümikon,12.3
+4318,Schneisingen,12.1
+4319,Siglistorf,12.4
+432,Cormoret,15.7
+4320,Tegerfelden,12
+4322,Wislikofen,12
+4323,Bad Zurzach,12.3
+433,Cortébert,16.1
+434,Courtelary,16
+435,La Ferrière,15.6
+437,Mont-Tramelan,14.9
+438,Orvin,15.4
+44,Waltalingen,10.2
+4401,Arbon,13.4
+4406,Dozwil,11.8
+441,Renan (BE),16.1
+4411,Egnach,12.3
+4416,Hefenhofen,12.8
+442,Romont (BE),14.5
+4421,Horn,10.7
+4426,Kesswil,11.9
+443,Saint-Imier,15
+4431,Roggwil (TG),12.4
+4436,Romanshorn,12.8
+444,Sonceboz-Sombeval,15.4
+4441,Salmsach,13
+4446,Sommeri,12.5
+445,Sonvilier,16.2
+4451,Uttwil,11.2
+446,Tramelan,15.5
+4461,Amriswil,12.7
+4471,Bischofszell,12.8
+4476,Erlen,12.6
+448,Villeret,14.8
+4486,Hauptwil-Gottshaus,12.4
+449,Sauge,15.2
+4495,Hohentannen,12.4
+450,Péry-La Heutte,14.3
+4501,Kradolf-Schönenberg,12.6
+4506,Sulgen,12.2
+4511,Zihlschlacht-Sitterdorf,12.2
+4536,Basadingen-Schlattingen,12.5
+4545,Diessenhofen,11.7
+4546,Schlatt (TG),12.1
+4551,Aadorf,12.1
+4561,Felben-Wellhausen,12.1
+4566,Frauenfeld,11.7
+4571,Gachnang,11.3
+4590,Hüttlingen,12.8
+4591,Matzingen,12.9
+4601,Neunforn,10.6
+4606,Stettfurt,12.1
+4611,Thundorf,12.8
+4616,Uesslingen-Buch,12.5
+4621,Warth-Weiningen,10.7
+4641,Altnau,12.4
+4643,Bottighofen,9.7
+4646,Ermatingen,10.2
+4651,Gottlieben,11.4
+4656,Güttingen,12.3
+4666,Kemmental,12.1
+4671,Kreuzlingen,11.4
+4681,Langrickenbach,13
+4683,Lengwil,11.9
+4691,Münsterlingen,10.7
+4696,Tägerwilen,11.2
+4701,Wäldi,12.5
+4711,Affeltrangen,12.4
+4716,Bettwiesen,12.2
+4721,Bichelsee-Balterswil,12.2
+4723,Braunau,12.5
+4724,Eschlikon,12
+4726,Fischingen,13.1
+4741,Lommis,12.5
+4746,Münchwilen (TG),12.3
+4751,Rickenbach (TG),11.9
+4756,Schönholzerswilen,13
+4761,Sirnach,12.1
+4776,Tobel-Tägerschen,12.5
+4781,Wängi,12
+4786,Wilen (TG),12
+4791,Wuppenau,12.9
+4801,Berlingen,12
+4806,Eschenz,11.6
+4811,Herdern,12.5
+4816,Homburg,12.8
+4821,Hüttwilen,11.9
+4826,Mammern,11.5
+4831,Müllheim,12
+4841,Pfyn,12.9
+4846,Raperswilen,13.3
+4851,Salenstein,10.2
+4864,Steckborn,12.3
+4871,Wagenhausen,12.4
+4881,Amlikon-Bissegg,12.7
+4891,Berg (TG),12.2
+4901,Birwinken,13.4
+491,Brüttelen,15.3
+4911,Bürglen (TG),13.1
+492,Erlach,14.2
+4921,Bussnang,11.4
+493,Finsterhennen,15.1
+494,Gals,13.9
+4941,Märstetten,12.5
+4946,Weinfelden,11.8
+495,Gampelen,13.3
+4951,Wigoltingen,13
+496,Ins,14.5
+497,Lüscherz,14.4
+498,Müntschemier,15.2
+499,Siselen,15.1
+5,Hedingen,9.1
+500,Treiten,13.2
+5001,Arbedo-Castione,11.1
+5002,Bellinzona,11.4
+5003,Cadenazzo,11.2
+5004,Camorino,10.8
+5005,Giubiasco,11.1
+5006,Gnosca,11.7
+5007,Gorduno,11.7
+5008,Gudo,11.7
+5009,Isone,11.2
+501,Tschugg,14.4
+5010,Lumino,11.1
+5012,Moleno,11.7
+5013,Monte Carasso,10.9
+5014,Pianezzo,10.8
+5015,Preonzo,11.7
+5017,Sant'Antonino,9.6
+5018,Sant'Antonio,11.4
+5019,Sementina,11.1
+502,Vinelz,14.7
+5048,Acquarossa,11.4
+5049,Blenio,11.1
+5050,Serravalle,11.4
+5061,Airolo,11.1
+5063,Bedretto,9.3
+5064,Bodio,11.5
+5071,Dalpe,9.6
+5072,Faido,11.7
+5073,Giornico,11.7
+5076,Personico,11.1
+5077,Pollegio,11.4
+5078,Prato (Leventina),11.1
+5079,Quinto,11.4
+5081,Sobrio,11.7
+5091,Ascona,9.9
+5095,Brione (Verzasca),11.7
+5096,Brione sopra Minusio,10.5
+5097,Brissago,10.5
+51,Bachenbülach,9
+5102,Corippo,11.7
+5105,Frasco,11.7
+5108,Gordola,10.6
+5109,Gresso,11.7
+5112,Lavertezzo,11.7
+5113,Locarno,11.1
+5115,Losone,11.1
+5117,Mergoscia,11.7
+5118,Minusio,10.4
+5119,Mosogno,11.7
+5120,Muralto,10.8
+5121,Orselina,9.6
+5125,Ronco sopra Ascona,10.2
+5129,Sonogno,11.7
+5131,Tenero-Contra,11.1
+5132,Vergeletto,10.4
+5135,Vogorno,11.7
+5136,Onsernone,11.7
+5137,Isorno,11.7
+5138,Cugnasco-Gerra,11.1
+5141,Agno,10.6
+5143,Aranno,11.4
+5144,Arogno,11.4
+5146,Astano,11.7
+5148,Bedano,10.8
+5149,Bedigliora,11.7
+5151,Bioggio,9.3
+5154,Bissone,9.7
+5160,Brusino Arsizio,11.1
+5161,Cademario,11.4
+5162,Cadempino,9.2
+5167,Canobbio,10.7
+5171,Caslano,10.8
+5176,Comano,10.2
+5178,Croglio,10.5
+5180,Cureglia,9.6
+5181,Curio,11.1
+5186,Grancia,10.2
+5187,Gravesano,10.5
+5189,Lamone,11.1
+5192,Lugano,10.5
+5193,Magliaso,10.2
+5194,Manno,9.6
+5195,Maroggia,10.8
+5196,Massagno,10.5
+5197,Melano,10.8
+5198,Melide,10.2
+5199,Mezzovico-Vira,9.3
+52,Bassersdorf,9.2
+5200,Miglieglia,11.7
+5202,Monteggio,10.2
+5203,Morcote,10.5
+5205,Muzzano,10.2
+5206,Neggio,11.1
+5207,Novaggio,11.7
+5208,Origlio,10.2
+5210,Paradiso,9.3
+5212,Ponte Capriasca,10.5
+5213,Ponte Tresa,11.1
+5214,Porza,9.2
+5216,Pura,11.4
+5219,Rovio,10.5
+5221,Savosa,10.2
+5222,Sessa,11.1
+5225,Sorengo,9.6
+5226,Capriasca,11.4
+5227,Torricella-Taverne,10.8
+5230,Vernate,10.5
+5231,Vezia,9.9
+5233,Vico Morcote,9.9
+5236,Collina d'Oro,9.6
+5237,Alto Malcantone,11.4
+5238,Monteceneri,11.1
+5242,Balerna,11
+5249,Castel San Pietro,10.5
+5250,Chiasso,10.9
+5251,Coldrerio,10.5
+5254,Mendrisio,10.2
+5257,Morbio Inferiore,11.2
+5260,Novazzano,10.2
+5263,Riva San Vitale,10.8
+5266,Stabio,9.6
+5268,Vacallo,11.1
+5269,Breggia,11.4
+5281,Biasca,11.4
+5282,Claro,11.7
+5283,Cresciano,11.5
+5284,Iragna,11.7
+5285,Lodrino,11.4
+5286,Osogna,11.7
+53,Bülach,9.2
+5304,Gurin,11.7
+5307,Campo (Vallemaggia),11.7
+5309,Cerentino,11.7
+5310,Cevio,11.1
+5315,Linescio,9.6
+5317,Maggia,11.4
+5323,Lavizzara,11.1
+5324,Avegno Gordevio,11.4
+533,Bätterkinden,14.5
+535,Deisswil bei Münchenbuchsee,12.3
+536,Diemerswil,14.6
+538,Fraubrunnen,14.8
+5396,Terre di Pedemonte,11.4
+5397,Centovalli,11.2
+5398,Gambarogno,10.8
+54,Dietlikon,8.5
+540,Jegenstorf,14.1
+5401,Aigle,14
+5402,Bex,14.2
+5403,Chessel,14.5
+5404,Corbeyrier,14.1
+5405,Gryon,14.4
+5406,Lavey-Morcles,14.2
+5407,Leysin,14.6
+5408,Noville,14.7
+5409,Ollon,14
+541,Iffwil,13.7
+5410,Ormont-Dessous,14.7
+5411,Ormont-Dessus,14.5
+5412,Rennaz,14
+5413,Roche (VD),14
+5414,Villeneuve (VD),14.1
+5415,Yvorne,14
+5421,Apples,14.5
+5422,Aubonne,14
+5423,Ballens,14.1
+5424,Berolle,14.6
+5425,Bière,14
+5426,Bougy-Villars,13.6
+5427,Féchy,13.7
+5428,Gimel,14.2
+5429,Longirod,14.8
+543,Mattstetten,14.1
+5430,Marchissy,14.7
+5431,Mollens (VD),14.4
+5432,Montherod,14.6
+5434,Saint-George,14
+5435,Saint-Livres,14.1
+5436,Saint-Oyens,14.8
+5437,Saubraz,14.8
+544,Moosseedorf,13.8
+5451,Avenches,14
+5456,Cudrefin,13.4
+5458,Faoug,13.7
+546,Münchenbuchsee,14.5
+5464,Vully-les-Lacs,13.9
+5471,Bettens,14.1
+5472,Bournens,14.8
+5473,Boussens,14.1
+5474,La Chaux (Cossonay),14.6
+5475,Chavannes-le-Veyron,14.6
+5476,Chevilly,14.4
+5477,Cossonay,14.1
+5478,Cottens (VD),14.4
+5479,Cuarnens,14.6
+5480,Daillens,14.2
+5481,Dizy,14.7
+5482,Eclépens,12.6
+5483,Ferreyres,14.5
+5484,Gollion,14.4
+5485,Grancy,14.1
+5486,L'Isle,14.5
+5487,Lussery-Villars,14
+5488,Mauraz,14.4
+5489,Mex (VD),13.6
+5490,Moiry,14.8
+5491,Mont-la-Ville,14.5
+5492,Montricher,13.7
+5493,Orny,14.3
+5494,Pampigny,14.4
+5495,Penthalaz,14.4
+5496,Penthaz,14.2
+5497,Pompaples,13.9
+5498,La Sarraz,13.9
+5499,Senarclens,14
+55,Eglisau,9.6
+5500,Sévery,14.5
+5501,Sullens,14.1
+5503,Vufflens-la-Ville,13.9
+551,Urtenen-Schönbühl,14
+5511,Assens,14.1
+5512,Bercher,14.7
+5513,Bioley-Orjulaz,13.9
+5514,Bottens,14.1
+5515,Bretigny-sur-Morrens,14.3
+5516,Cugy (VD),14.1
+5518,Echallens,14.4
+552,Utzenstorf,14.3
+5520,Essertines-sur-Yverdon,14.3
+5521,Etagnières,14.3
+5522,Fey,14.4
+5523,Froideville,14.5
+5527,Morrens (VD),14.2
+5529,Oulens-sous-Echallens,14.2
+553,Wiggiswil,13.8
+5530,Pailly,14.6
+5531,Penthéréaz,14.6
+5533,Poliez-Pittet,14.2
+5534,Rueyres,14.3
+5535,Saint-Barthélemy (VD),14.4
+5537,Villars-le-Terroir,14.3
+5539,Vuarrens,14.4
+554,Wiler bei Utzenstorf,14
+5540,Montilliez,14.4
+5541,Goumoëns,14.6
+5551,Bonvillars,13.2
+5552,Bullet,14.1
+5553,Champagne,13.7
+5554,Concise,14.4
+5555,Corcelles-près-Concise,14.2
+5556,Fiez,14.1
+5557,Fontaines-sur-Grandson,14.1
+5559,Giez,13.9
+556,Zielebach,14
+5560,Grandevent,14
+5561,Grandson,14.1
+5562,Mauborget,14.1
+5563,Mutrux,14.7
+5564,Novalles,14.5
+5565,Onnens (VD),13.8
+5566,Provence,14.8
+5568,Sainte-Croix,14.1
+557,Zuzwil (BE),14.3
+5571,Tévenon,14.3
+5581,Belmont-sur-Lausanne,14.1
+5582,Cheseaux-sur-Lausanne,14.4
+5583,Crissier,13.8
+5584,Epalinges,13.9
+5585,Jouxtens-Mézery,13.1
+5586,Lausanne,14.7
+5587,Le Mont-sur-Lausanne,14.4
+5588,Paudex,13.6
+5589,Prilly,14.3
+5590,Pully,13.6
+5591,Renens (VD),14.7
+5592,Romanel-sur-Lausanne,14.1
+56,Embrach,9.6
+5601,Chexbres,13.7
+5604,Forel (Lavaux),14
+5606,Lutry,13.2
+5607,Puidoux,14.1
+5609,Rivaz,13.7
+561,Adelboden,15.5
+5610,Saint-Saphorin (Lavaux),13.9
+5611,Savigny,14.1
+5613,Bourg-en-Lavaux,13.6
+562,Aeschi bei Spiez,14.8
+5621,Aclens,13.6
+5622,Bremblens,13.9
+5623,Buchillon,13.1
+5624,Bussigny,13.6
+5625,Bussy-Chardonney,14.6
+5627,Chavannes-près-Renens,14.7
+5628,Chigny,13.6
+5629,Clarmont,14.4
+563,Frutigen,15.2
+5631,Denens,14
+5632,Denges,13.6
+5633,Echandens,13.6
+5634,Echichens,14
+5635,Ecublens (VD),13.6
+5636,Etoy,13.6
+5637,Lavigny,14.4
+5638,Lonay,13.2
+5639,Lully (VD),13.6
+564,Kandergrund,15.4
+5640,Lussy-sur-Morges,13.9
+5642,Morges,14
+5643,Préverenges,13.7
+5644,Reverolle,14.5
+5645,Romanel-sur-Morges,13.2
+5646,Saint-Prex,13.2
+5648,Saint-Sulpice (VD),13.2
+5649,Tolochenaz,13.8
+565,Kandersteg,15.2
+5650,Vaux-sur-Morges,12.2
+5651,Villars-Sainte-Croix,13.4
+5652,Villars-sous-Yens,14.5
+5653,Vufflens-le-Château,13.2
+5654,Vullierens,14.5
+5655,Yens,14.3
+566,Krattigen,14.8
+5661,Boulens,14.7
+5662,Brenles,14.6
+5663,Bussy-sur-Moudon,14.8
+5665,Chavannes-sur-Moudon,14.3
+5666,Chesalles-sur-Moudon,14.4
+5668,Cremin,14.6
+5669,Curtilles,14.3
+567,Reichenbach im Kandertal,15
+5671,Dompierre (VD),14.8
+5672,Forel-sur-Lucens,14.4
+5673,Hermenches,14.5
+5674,Lovatens,14.4
+5675,Lucens,13.9
+5678,Moudon,14.5
+5680,Ogens,14.6
+5683,Prévonloup,14.4
+5684,Rossenges,13.5
+5686,Sarzens,14.4
+5688,Syens,14.5
+5690,Villars-le-Comte,14.5
+5692,Vucherens,14.7
+5693,Montanaire,14.3
+57,Freienstein-Teufen,8.7
+5701,Arnex-sur-Nyon,14.1
+5702,Arzier-Le Muids,13.7
+5703,Bassins,14.2
+5704,Begnins,13.9
+5705,Bogis-Bossey,14.1
+5706,Borex,13.2
+5707,Chavannes-de-Bogis,13.4
+5708,Chavannes-des-Bois,13.6
+5709,Chéserex,13
+571,Beatenberg,15.7
+5710,Coinsins,12.3
+5711,Commugny,13.3
+5712,Coppet,13.1
+5713,Crans-près-Céligny,13.1
+5714,Crassier,13.7
+5715,Duillier,13.9
+5716,Eysins,13.6
+5717,Founex,13.3
+5718,Genolier,13.2
+5719,Gingins,13.3
+572,Bönigen,15.1
+5720,Givrins,13.6
+5721,Gland,13.7
+5722,Grens,13.6
+5723,Mies,12.8
+5724,Nyon,13.6
+5725,Prangins,13.2
+5726,La Rippe,13.8
+5727,Saint-Cergue,13.9
+5728,Signy-Avenex,13.2
+5729,Tannay,13.6
+573,Brienz (BE),15.2
+5730,Trélex,13.3
+5731,Le Vaud,14.4
+5732,Vich,14
+574,Brienzwiler,15.2
+5741,L'Abergement,14.8
+5742,Agiez,14.5
+5743,Arnex-sur-Orbe,14.3
+5744,Ballaigues,13.9
+5745,Baulmes,14.6
+5746,Bavois,14.3
+5747,Bofflens,14.1
+5748,Bretonnières,14.3
+5749,Chavornay,14.3
+575,Därligen,15
+5750,Les Clées,14.8
+5751,Corcelles-sur-Chavornay,14.5
+5752,Croy,14.4
+5754,Juriens,14.7
+5755,Lignerolle,14.8
+5756,Montcherand,14.3
+5757,Orbe,14.4
+5758,La Praz,15
+5759,Premier,14.8
+576,Grindelwald,15
+5760,Rances,14.6
+5761,Romainmôtier-Envy,14.5
+5762,Sergey,14.6
+5763,Valeyres-sous-Rances,13.8
+5764,Vallorbe,14.4
+5765,Vaulion,14.8
+5766,Vuiteboeuf,14.6
+577,Gsteigwiler,15.2
+578,Gündlischwand,15.3
+5782,Carrouge (VD),14.5
+5785,Corcelles-le-Jorat,14.6
+5788,Essertes,14.3
+5789,Ferlens (VD),14.5
+579,Habkern,15.3
+5790,Maracon,14.5
+5791,Mézières (VD),14.5
+5792,Montpreveyres,14.6
+5798,Ropraz,14.6
+5799,Servion,14.1
+58,Glattfelden,9.4
+580,Hofstetten bei Brienz,14.9
+5803,Vulliens,14.6
+5804,Jorat-Menthue,14.3
+5805,Oron,14.1
+581,Interlaken,14.9
+5812,Champtauroz,14.6
+5813,Chevroux,14.1
+5816,Corcelles-près-Payerne,14.3
+5817,Grandcour,14.7
+5819,Henniez,13.9
+582,Iseltwald,15.3
+5821,Missy,14.3
+5822,Payerne,14.4
+5827,Trey,14.8
+5828,Treytorrens (Payerne),15
+5830,Villarzel,14.7
+5831,Valbroye,14.3
+584,Lauterbrunnen,15.7
+5841,Château-d'Oex,14.9
+5842,Rossinière,14.8
+5843,Rougemont,14.1
+585,Leissigen,15.1
+5851,Allaman,13.6
+5852,Bursinel,13.8
+5853,Bursins,14.2
+5854,Burtigny,14.8
+5855,Dully,12.8
+5856,Essertines-sur-Rolle,14
+5857,Gilly,13.9
+5858,Luins,13.5
+5859,Mont-sur-Rolle,13.7
+586,Lütschental,14.1
+5860,Perroy,13.5
+5861,Rolle,13.5
+5862,Tartegnin,15
+5863,Vinzel,14.1
+587,Matten bei Interlaken,15.4
+5871,L'Abbaye,14.5
+5872,Le Chenit,13.5
+5873,Le Lieu,13.8
+588,Niederried bei Interlaken,15.7
+5881,Blonay,14.1
+5882,Chardonne,14
+5883,Corseaux,13.7
+5884,Corsier-sur-Vevey,13.9
+5885,Jongny,14.2
+5886,Montreux,13.8
+5888,Saint-Légier-La Chiésaz,13.9
+5889,La Tour-de-Peilz,13.7
+589,Oberried am Brienzersee,15.8
+5890,Vevey,14.3
+5891,Veytaux,14.1
+59,Hochfelden,9.5
+590,Ringgenberg (BE),15
+5902,Belmont-sur-Yverdon,14.5
+5903,Bioley-Magnoux,14.4
+5904,Chamblon,13.9
+5905,Champvent,14.2
+5907,Chavannes-le-Chêne,14.6
+5908,Chêne-Pâquier,14.7
+5909,Cheseaux-Noréaz,14.1
+591,Saxeten,14.7
+5910,Cronay,14.7
+5911,Cuarny,14.7
+5912,Démoret,14.8
+5913,Donneloye,14.3
+5914,Ependes (VD),14.5
+5915,Essert-Pittet,14.4
+5919,Mathod,14.4
+592,Schwanden bei Brienz,15
+5921,Molondin,14.8
+5922,Montagny-près-Yverdon,13.6
+5923,Oppens,14.8
+5924,Orges,14.4
+5925,Orzens,14.7
+5926,Pomy,14.2
+5928,Rovray,14.3
+5929,Suchy,14.1
+593,Unterseen,14.9
+5930,Suscévaz,13.9
+5931,Treycovagnes,14.6
+5932,Ursins,14.6
+5933,Valeyres-sous-Montagny,14.3
+5934,Valeyres-sous-Ursins,14.7
+5935,Villars-Epeney,13.5
+5937,Vugelles-La Mothe,14.1
+5938,Yverdon-les-Bains,14.5
+5939,Yvonand,14.3
+594,Wilderswil,14.7
+6,Kappel am Albis,9.5
+60,Höri,9.4
+6002,Brig-Glis,11.4
+6004,Eggerberg,14.3
+6007,Naters,11.6
+6008,Ried-Brig,12.5
+6009,Simplon,11.1
+6010,Termen,12.1
+6011,Zwischbergen,11.1
+602,Arni (BE),14.6
+6021,Ardon,13
+6022,Chamoson,13.5
+6023,Conthey,12.4
+6024,Nendaz,13.7
+6025,Vétroz,12.2
+603,Biglen,15
+6031,Bagnes,11.1
+6032,Bourg-Saint-Pierre,13.4
+6033,Liddes,13.4
+6034,Orsières,13.1
+6035,Sembrancher,13
+6036,Vollèges,13.1
+605,Bowil,15.3
+6052,Bellwald,13
+6054,Binn,12.8
+6055,Blitzingen,11.1
+6056,Ernen,12.8
+6057,Fiesch,12.5
+6058,Fieschertal,11.9
+606,Brenzikofen,14.9
+6061,Lax,13.5
+6064,Niederwald,13.5
+607,Freimettigen,15
+6073,Grafschaft,11.6
+6074,Münster-Geschinen,13.7
+6075,Reckingen-Gluringen,13.1
+6076,Obergoms,11.6
+608,Grosshöchstetten,13.9
+6081,Les Agettes,14.6
+6082,Ayent,12.9
+6083,Evolène,14.1
+6084,Hérémence,11.1
+6087,Saint-Martin (VS),14.3
+6089,Vex,13
+609,Häutligen,14.3
+6090,Mont-Noble,14
+61,Hüntwangen,8.9
+610,Herbligen,14.7
+6101,Agarn,13.4
+6102,Albinen,13.7
+6104,Ergisch,11.1
+6109,Inden,12.8
+611,Kiesen,14.2
+6110,Leuk,13.4
+6111,Leukerbad,14.7
+6112,Oberems,11.1
+6113,Salgesch,13.7
+6116,Varen,13.7
+6117,Guttet-Feschel,13.7
+6118,Gampel-Bratsch,13.5
+6119,Turtmann-Unterems,12.4
+612,Konolfingen,14.8
+613,Landiswil,15.7
+6131,Bovernier,12.8
+6132,Charrat,12.8
+6133,Fully,13.2
+6134,Isérables,14.1
+6135,Leytron,13.1
+6136,Martigny,11.9
+6137,Martigny-Combe,11.4
+6139,Riddes,13.1
+614,Linden,15.5
+6140,Saillon,13.1
+6141,Saxon,12.5
+6142,Trient,11.1
+615,Mirchel,15
+6151,Champéry,14.1
+6152,Collombey-Muraz,12.5
+6153,Monthey,12.5
+6154,Port-Valais,11.9
+6155,Saint-Gingolph,14.4
+6156,Troistorrents,12.8
+6157,Val-d'Illiez,13.5
+6158,Vionnaz,12.2
+6159,Vouvry,13.1
+616,Münsingen,14.3
+617,Niederhünigen,14.8
+6172,Bister,11.1
+6173,Bitsch,11.1
+6177,Grengiols,13.7
+6181,Riederalp,13.8
+619,Oberdiessbach,14.2
+6191,Ausserberg,14.4
+6192,Blatten,14.6
+6193,Bürchen,13.7
+6194,Eischoll,13.7
+6195,Ferden,14.8
+6197,Kippel,14.6
+6198,Niedergesteln,13.4
+6199,Raron,12.8
+62,Kloten,9
+620,Oberthal,15.9
+6201,Unterbäch,13.2
+6202,Wiler (Lötschen),14.3
+6203,Mörel-Filet,12.8
+6204,Steg-Hohtenn,12.2
+6205,Bettmeralp,13.4
+6211,Collonges,12.1
+6212,Dorénaz,12.6
+6213,Evionnaz,12.6
+6214,Finhaut,11.1
+6215,Massongex,13.4
+6217,Saint-Maurice,12.7
+6218,Salvan,11.1
+6219,Vernayaz,12.6
+622,Oppligen,14.7
+6220,Vérossaz,13.4
+623,Rubigen,13.9
+6232,Chalais,13.7
+6234,Chermignon,12.1
+6235,Chippis,13.1
+6238,Grône,13.5
+6239,Icogne,12.1
+624,Schlosswil,15.2
+6240,Lens,11.9
+6241,Miège,13.7
+6242,Mollens (VS),12.9
+6243,Montana,12.5
+6244,Randogne,12.5
+6246,Saint-Léonard,12.8
+6248,Sierre,12.8
+6249,Venthône,11.9
+625,Tägertschi,15
+6250,Veyras,12.4
+6252,Anniviers,13.4
+626,Walkringen,16.3
+6261,Arbaz,13.4
+6263,Grimisuat,13.3
+6265,Savièse,12.5
+6266,Sion,11.8
+6267,Veysonnaz,13.9
+627,Worb,14.8
+628,Zäziwil,14.8
+6281,Baltschieder,12.4
+6282,Eisten,11.1
+6283,Embd,13.8
+6285,Grächen,14.8
+6286,Lalden,12.8
+6287,Randa,11.6
+6288,Saas-Almagell,14.6
+6289,Saas-Balen,13.7
+629,Oberhünigen,15.5
+6290,Saas-Fee,14.3
+6291,Saas-Grund,14.3
+6292,St. Niklaus,12.9
+6293,Stalden (VS),11.8
+6294,Staldenried,11.6
+6295,Täsch,14.1
+6296,Törbel,13.1
+6297,Visp,11.9
+6298,Visperterminen,13.8
+6299,Zeneggen,13.5
+63,Lufingen,8.4
+630,Allmendingen,13.8
+6300,Zermatt,11.6
+632,Wichtrach,14.1
+64,Nürensdorf,8.4
+6402,Bevaix,16.1
+6404,Boudry,16.6
+6407,Corcelles-Cormondrèche,16.5
+6408,Cortaillod,16
+6409,Fresens,16.3
+6410,Gorgier,15.9
+6411,Montalchez,16.9
+6412,Peseux,16.5
+6413,Rochefort,16.3
+6414,Saint-Aubin-Sauges,16.3
+6415,Vaumarcus,16.1
+6416,Milvignes,15.7
+6421,La Chaux-de-Fonds,16.7
+6422,Les Planchettes,17
+6423,La Sagne,16.7
+6431,Les Brenets,15.9
+6432,La Brévine,16.7
+6433,Brot-Plamboz,16.7
+6434,Le Cerneux-Péquignot,16.7
+6435,La Chaux-du-Milieu,16.7
+6436,Le Locle,16.2
+6437,Les Ponts-de-Martel,16.7
+6451,Cornaux,16.2
+6452,Cressier (NE),16.9
+6453,Enges,16.6
+6454,Hauterive (NE),16.3
+6455,Le Landeron,16
+6456,Lignières,16.6
+6458,Neuchâtel,15.9
+6459,Saint-Blaise,16
+6461,La Tène,16.5
+6485,Valangin,16.1
+6487,Val-de-Ruz,16
+65,Oberembrach,9.6
+6504,La Côte-aux-Fées,16.7
+6511,Les Verrières,17.1
+6512,Val-de-Travers,16.8
+66,Opfikon,8.8
+6601,Aire-la-Ville,13.3
+6602,Anières,12.1
+6603,Avully,13.4
+6604,Avusy,13.3
+6605,Bardonnex,12.8
+6606,Bellevue,12.7
+6607,Bernex,13.2
+6608,Carouge (GE),12.5
+6609,Cartigny,12.8
+661,Clavaleyres,15.3
+6610,Céligny,12.1
+6611,Chancy,13.4
+6612,Chêne-Bougeries,12.1
+6613,Chêne-Bourg,13
+6614,Choulex,12.9
+6615,Collex-Bossy,13
+6616,Collonge-Bellerive,11.8
+6617,Cologny,11.9
+6618,Confignon,13.1
+6619,Corsier (GE),12.2
+662,Ferenbalm,15.2
+6620,Dardagny,13.2
+6621,Genève,13
+6622,Genthod,11.5
+6623,Le Grand-Saconnex,12.9
+6624,Gy,13
+6625,Hermance,12.7
+6626,Jussy,12.6
+6627,Laconnex,12.9
+6628,Lancy,13.1
+6629,Meinier,12.7
+663,Frauenkappelen,14.7
+6630,Meyrin,12.9
+6631,Onex,13.3
+6632,Perly-Certoux,12.8
+6633,Plan-les-Ouates,12.3
+6634,Pregny-Chambésy,12
+6635,Presinge,12.7
+6636,Puplinge,13
+6637,Russin,12.6
+6638,Satigny,12.5
+6639,Soral,13
+664,Golaten,14.9
+6640,Thônex,12.9
+6641,Troinex,12.6
+6642,Vandoeuvres,11.9
+6643,Vernier,13.3
+6644,Versoix,13
+6645,Veyrier,12.4
+665,Gurbrü,15.3
+666,Kriechenwil,15
+667,Laupen,14.7
+668,Mühleberg,13.5
+669,Münchenwiler,14
+67,Rafz,9.4
+670,Neuenegg,14
+6702,Boécourt,15
+6703,Bourrignon,16
+6704,Châtillon (JU),14.4
+6705,Corban,15.9
+6706,Courchapoix,15.6
+6708,Courrendlin,15
+6709,Courroux,15.4
+671,Wileroltigen,15.2
+6710,Courtételle,13.9
+6711,Delémont,14.5
+6712,Develier,14.9
+6713,Ederswiler,15.1
+6715,Mervelier,15.9
+6716,Mettembert,15.7
+6718,Movelier,16
+6719,Pleigne,15.5
+6720,Rebeuvelier,15.8
+6721,Rossemaison,15.1
+6722,Saulcy,15.8
+6724,Soyhières,14.9
+6728,Vellerat,15.6
+6729,Haute-Sorne,15.2
+6730,Val Terbi,15.9
+6741,Le Bémont (JU),14.8
+6742,Les Bois,15.5
+6743,Les Breuleux,13.6
+6744,La Chaux-des-Breuleux,15.2
+6745,Les Enfers,15.4
+6748,Les Genevez (JU),15
+6750,Lajoux (JU),15.4
+6751,Montfaucon,15.8
+6753,Muriaux,13.5
+6754,Le Noirmont,14.5
+6757,Saignelégier,15.3
+6758,Saint-Brais,15.9
+6759,Soubey,16
+6771,Alle,15.7
+6773,Beurnevésin,16
+6774,Boncourt,13.6
+6775,Bonfol,15.3
+6778,Bure,15.7
+6781,Coeuve,16.2
+6782,Cornol,15.3
+6783,Courchavon,15.2
+6784,Courgenay,15.1
+6785,Courtedoux,15.6
+6787,Damphreux,15.7
+6789,Fahy,16.1
+6790,Fontenais,14.9
+6792,Grandfontaine,16
+6793,Lugnez,16
+68,Rorbas,9
+6800,Porrentruy,15.1
+6803,Rocourt,16
+6806,Vendlincourt,16
+6807,Basse-Allaine,16.2
+6808,Clos du Doubs,15.6
+6809,Haute-Ajoie,15.3
+681,Belprahon,15.5
+6810,La Baroche,15.6
+683,Champoz,14.8
+687,Corcelles (BE),15.5
+69,Wallisellen,8.6
+690,Court,15.6
+691,Crémines,15.5
+692,Eschert,15.5
+694,Grandval,14.9
+696,Loveresse,15.5
+7,Knonau,9.5
+70,Wasterkingen,9.2
+700,Moutier,15.5
+701,Perrefitte,15.7
+703,Reconvilier,15.6
+704,Roches (BE),15.5
+706,Saicourt,15.5
+707,Saules (BE),15.2
+708,Schelten,16.3
+709,Seehof,14.9
+71,Wil (ZH),9
+711,Sorvilier,15.2
+713,Tavannes,15.4
+715,Rebévelier,16
+716,Petit-Val,15.5
+717,Valbirse,15.7
+72,Winkel,7.8
+723,La Neuveville,14.6
+724,Nods,14.6
+726,Plateau de Diesse,15.1
+731,Aegerten,14.9
+732,Bellmund,13.8
+733,Brügg,14.3
+734,Bühl,15
+735,Epsach,15.4
+736,Hagneck,14.8
+737,Hermrigen,15.1
+738,Jens,15.3
+739,Ipsach,14.4
+740,Ligerz,14.6
+741,Merzligen,15.6
+742,Mörigen,13.4
+743,Nidau,14.8
+744,Orpund,15.4
+745,Port,14.4
+746,Safnern,14.7
+747,Scheuren,15.3
+748,Schwadernau,15.3
+749,Studen (BE),14.4
+750,Sutz-Lattrigen,14.8
+751,Täuffelen,14.3
+754,Walperswil,14.5
+755,Worben,14.4
+756,Twann-Tüscherz,14.5
+761,Därstetten,14.8
+762,Diemtigen,15.1
+763,Erlenbach im Simmental,14.8
+766,Oberwil im Simmental,14.9
+767,Reutigen,15
+768,Spiez,14.5
+769,Wimmis,14.6
+770,Stocken-Höfen,15.4
+782,Guttannen,14.7
+783,Hasliberg,16
+784,Innertkirchen,14.7
+785,Meiringen,15.5
+786,Schattenhalb,15.7
+791,Boltigen,14.8
+792,Lenk,15.5
+793,St. Stephan,15.2
+794,Zweisimmen,15.1
+8,Maschwanden,10
+81,Bachs,10
+82,Boppelsen,8.2
+83,Buchs (ZH),9.1
+84,Dällikon,9
+841,Gsteig,14.2
+842,Lauenen,14.8
+843,Saanen,13.7
+85,Dänikon,8.9
+852,Guggisberg,15.7
+853,Rüschegg,14.6
+855,Schwarzenburg,15.3
+86,Dielsdorf,8.7
+861,Belp,13.6
+863,Burgistein,15.4
+865,Gelterfingen,13.8
+866,Gerzensee,14.3
+867,Gurzelen,15.3
+868,Jaberg,14.1
+869,Kaufdorf,15
+87,Hüttikon,9
+870,Kehrsatz,14.6
+872,Kirchdorf (BE),14.4
+873,Kirchenthurnen,15
+874,Lohnstorf,15.4
+875,Mühledorf (BE),13.3
+876,Mühlethurnen,14.5
+877,Niedermuhlern,15.2
+878,Noflen,14.5
+879,Riggisberg,15.1
+88,Neerach,7.8
+880,Rüeggisberg,15.4
+881,Rümligen,14.8
+883,Seftigen,15
+884,Toffen,14.4
+885,Uttigen,14.5
+886,Wattenwil,15.4
+888,Wald (BE),14.9
+89,Niederglatt,9.1
+9,Mettmenstetten,9
+90,Niederhasli,9.3
+901,Eggiwil,15
+902,Langnau im Emmental,15.4
+903,Lauperswil,15.1
+904,Röthenbach im Emmental,15.7
+905,Rüderswil,14.5
+906,Schangnau,15.4
+907,Signau,15.4
+908,Trub,15.2
+909,Trubschachen,15.5
+91,Niederweningen,9.2
+92,Oberglatt,9.7
+921,Amsoldingen,15
+922,Blumenstein,15
+923,Buchholterberg,15.2
+924,Eriz,15.3
+925,Fahrni,15.1
+927,Heiligenschwendi,15.3
+928,Heimberg,14.1
+929,Hilterfingen,14.3
+93,Oberweningen,9
+931,Homberg,15.5
+932,Horrenbach-Buchen,14.9
+934,Oberhofen am Thunersee,14.6
+935,Oberlangenegg,15.6
+936,Pohlern,14.9
+937,Schwendibach,15.3
+938,Sigriswil,14.7
+939,Steffisburg,14.6
+94,Otelfingen,8.6
+940,Teuffenthal (BE),15.2
+941,Thierachern,14.8
+942,Thun,14.8
+943,Uebeschi,15.9
+944,Uetendorf,14.1
+945,Unterlangenegg,15.2
+946,Wachseldorn,15.3
+947,Zwieselberg,15.3
+948,Forst-Längenbühl,14.7
+95,Regensberg,9.2
+951,Affoltern im Emmental,15
+952,Dürrenroth,15.2
+953,Eriswil,15.4
+954,Huttwil,14.6
+955,Lützelflüh,15.1
+956,Rüegsau,14.3
+957,Sumiswald,15.1
+958,Trachselwald,15.4
+959,Walterswil (BE),15.3
+96,Regensdorf,9.4
+960,Wyssachen,15.4
+97,Rümlang,9.1
+971,Attiswil,14.6
+972,Berken,13.3
+973,Bettenhausen,14.2
+975,Farnern,14.7
+976,Graben,14.1
+977,Heimenhausen,13.9
+979,Herzogenbuchsee,14.2
+98,Schleinikon,9.2
+980,Inkwil,14.3
+981,Niederbipp,13.6
+982,Niederönz,13.2
+983,Oberbipp,14.1
+985,Ochlenberg,14.1
+987,Rumisberg,14.7
+988,Seeberg,14.5
+989,Thörigen,14.3
+99,Schöfflisdorf,9.1
+990,Walliswil bei Niederbipp,13.2
+991,Walliswil bei Wangen,14.7
+992,Wangen an der Aare,14.7
+993,Wangenried,14.9
+995,Wiedlisbach,14.4
+996,Wolfisberg,15.3

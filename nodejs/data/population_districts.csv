@@ -1,0 +1,149 @@
+id,district,population
+1001,La Broye,31676
+1002,La Glâne,23628
+1003,La Gruyère,53652
+1004,La Sarine,105631
+1005,Lac,35835
+1006,Sense,43409
+1007,La Veveyse,18083
+101,Affoltern,52904
+102,Andelfingen,30981
+103,Bülach,147379
+104,Dielsdorf,88921
+105,Hinwil,94322
+106,Horgen,123566
+107,Meilen,102280
+108,Pfäffikon,59504
+109,Uster,129490
+110,Winterthur,166087
+1101,Gäu,20687
+1102,Thal,14541
+1103,Bucheggberg,7817
+1104,Dorneck,20442
+1105,Gösgen,24195
+1106,Wasseramt,50704
+1107,Lebern,45333
+1108,Olten,54498
+1109,Solothurn,16697
+111,Dietikon,89773
+1110,Thierstein,14527
+112,Zürich,402762
+1200,Kt. Basel-Stadt,193070
+1301,Arlesheim,154873
+1302,Laufen,19626
+1303,Liestal,59659
+1304,Sissach,35499
+1305,Waldenburg,15967
+1401,Oberklettgau,4403
+1402,Reiat,8877
+1403,Schaffhausen,53944
+1404,Schleitheim,2998
+1405,Stein,5649
+1406,Unterklettgau,4898
+1501,Hinterland,24223
+1502,Mittelland,17030
+1503,Vorderland,13701
+1600,Kt. Appenzell i.Rh.,16003
+1721,St. Gallen,121981
+1722,Rorschach,42404
+1723,Rheintal,72000
+1724,Werdenberg,38445
+1725,Sarganserland,40234
+1726,See-Gaster,66231
+1727,Toggenburg,46215
+1728,Wil,75042
+1821,Albula,8214
+1822,Bernina,4656
+1823,Hinterrhein,13252
+1824,Imboden,20545
+1825,Inn,9350
+1826,Landquart,25845
+1827,Maloggia,18550
+1828,Moesa,8491
+1829,Plessur,40947
+1830,Prättigau-Davos,26245
+1831,Surselva,21455
+1901,Aarau,76294
+1902,Baden,141923
+1903,Bremgarten,75793
+1904,Brugg,50315
+1905,Kulm,40410
+1906,Laufenburg,31643
+1907,Lenzburg,60419
+1908,Muri,35447
+1909,Rheinfelden,47528
+1910,Zofingen,70008
+1911,Zurzach,33682
+2011,Arbon,55689
+2012,Frauenfeld,66788
+2013,Kreuzlingen,47132
+2014,Münchwilen,46449
+2015,Weinfelden,54651
+2101,Bellinzona,52063
+2102,Blenio,5767
+2103,Leventina,9335
+2104,Locarno,64190
+2105,Lugano,152203
+2106,Mendrisio,51564
+2107,Riviera,13229
+2108,Vallemaggia,6024
+2221,Aigle,45128
+2222,Broye-Vully,41439
+2223,Gros-de-Vaud,43788
+2224,Jura-Nord vaudois,90805
+2225,Lausanne,164182
+2226,Lavaux-Oron,61002
+2227,Morges,81075
+2228,Nyon,98625
+2229,Ouest lausannois,73643
+2230,Riviera-Pays-d'Enhaut,85135
+2301,Brig,26805
+2302,Conthey,28082
+2303,Entremont,15183
+2304,Goms,4421
+2305,Hérens,11069
+2306,Leuk,12387
+2307,Martigny,46899
+2308,Monthey,45718
+2309,Raron,10860
+2310,Saint-Maurice,13713
+2311,Sierre,49028
+2312,Sion,46640
+2313,Visp,28371
+2401,Boudry,40572
+2402,La Chaux-de-Fonds,40128
+2403,Le Locle,14496
+2404,Neuchâtel,53923
+2405,Val-de-Ruz,17338
+2406,Val-de-Travers,12110
+241,Jura bernois,53767
+242,Bienne,99674
+243,Seeland,73239
+244,Oberaargau,80843
+245,Emmental,96657
+246,Bern-Mittelland,410846
+247,Thun,107055
+248,Obersimmental-Saanen,16710
+249,Frutigen-Niedersimmental,40024
+250,Interlaken-Oberhasli,47698
+2500,Cant. de Genève,489524
+2601,Delémont,38042
+2602,Les Franches-Montagnes,10353
+2603,Porrentruy,24727
+311,Luzern-Stadt,81592
+312,Luzern-Land,99993
+313,Hochdorf,72049
+314,Sursee,73077
+315,Willisau,53317
+316,Entlebuch,23369
+400,Kt. Uri,36145
+501,Einsiedeln,15361
+502,Gersau,2260
+503,Höfe,28535
+504,Küssnacht (SZ),12512
+505,March,42781
+506,Schwyz,54414
+600,Kt. Obwalden,37378
+700,Kt. Nidwalden,42556
+800,Kt. Glarus,40147
+900,Kt. Zug,123948

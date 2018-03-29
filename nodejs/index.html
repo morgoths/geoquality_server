@@ -13,18 +13,36 @@
 
     <div class="container">
         <div class="jumbotron">
-            <h3><a href="./crimes">/crimes</a></h3>
-            <h3><a href="./crimes/1001">/crimes/{id}</a></h3>
-            <div><b>Group by :</b> District</div>
+            <h3><a href="./crimes/districts">/crimes/districts</a></h3>
+            <h3><a href="./crimes/districts?id=1001">/crimes/districts?id={id}</a></h3>
+            <h3><a href="./crimes/districts?name=La%20Broye">/crimes/districts?name={name}</a></h3>
             <div><b>Description :</b> Code pénal (CP) - Total des infractions en 2016</div>
-            <div><b>Donnée :</b> Nombre d'infractions par 1 000 habitants</div>            
-            <div><b>Source :</b> <a href="https://www.atlas.bfs.admin.ch/maps/13/fr/12404_11475_11461_7266/20447.html">OFS</a></div>
+            <div><b>Donnée :</b> Nombre d'infractions par 1 000 habitants</div>
+            <div><b>Source :</b> <a href="https://www.atlas.bfs.admin.ch">OFS</a></div>
         </div>
         <div class="jumbotron">
-            <h3><a href="./musees">/musees</a></h3>
+            <h3><a href="./impositions/communes?revenue=10000">/impositions/communes?revenue={revenue}</a></h3>
+            <h3><a href="./impositions/communes?revenue=10000&id=1">/impositions/communes?revenue={revenue}&id={id}</a></h3>
+            <h3><a href="./impositions/communes?revenue=10000&name=Aeugst%20am%20Albis">/impositions/communes?revenue={revenue}&name={name}</a></h3>
+            <div><b>Description :</b> Charges fiscale des célibataires, revenu brut de 0.- à 80'000.- et de 80'000.- à 150'000.-</div>
+            <div><b>Donnée :</b> Charge fiscale du revenu brut du travail en pourcent</div>
+            <div><b>Source :</b> <a href="https://www.atlas.bfs.admin.ch">OFS</a></div>
         </div>
         <div class="jumbotron">
-            <h3><a href="./crimes">/crimes</a></h3>
+            <h3><a href="./population/districts">/population/districts</a></h3>
+            <h3><a href="./population/districts?id=1001">/population/districts?id={id}</a></h3>
+            <h3><a href="./population/districts?name=La%20Broye">/population/districts?name={name}</a></h3>
+            <br>
+            <h3><a href="./population/communes">/population/communes</a></h3>
+            <h3><a href="./population/communes?id=1">/population/communes?id={id}</a></h3>
+            <h3><a href="./population/communes?name=Aeugst%20am%20Albis">/population/communes?name={name}</a></h3>
+            <br>
+            <h3><a href="./population/cantons">/population/cantons</a></h3>
+            <h3><a href="./population/cantons?id=1">/population/cantons?id={id}</a></h3>
+            <h3><a href="./population/cantons?name=Zurich">/population/cantons?name={name}</a></h3>
+            <div><b>Description :</b> Population résidante permanente en 2016</div>
+            <div><b>Donnée :</b> Population à la fin de l'année civile</div>
+            <div><b>Source :</b> <a href="https://www.atlas.bfs.admin.ch">OFS</a></div>
         </div>
     </div>
 
