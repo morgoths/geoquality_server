@@ -170,4 +170,5 @@ function twoDarrayLineToJson(array, index) {
 }
 
 // Run server
-app.listen(8080);
+var port = process.env.PORT || 3000;
+app.listen(port);
